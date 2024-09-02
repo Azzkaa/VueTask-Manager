@@ -1,3 +1,27 @@
+# web-technology
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # VueTask-Manager
 
@@ -6,3 +30,10 @@ VueTask Manager is a robust web application developed using Vue.js, designed to 
 
 ## Outputs
 
+![image](https://github.com/user-attachments/assets/9884125c-8964-4966-b756-855064ea441d)
+
+![image](https://github.com/user-attachments/assets/d6eb1466-3149-41e8-a0d9-aaf517643079)
+
+![image](https://github.com/user-attachments/assets/086a6ea2-48ad-446f-81df-7af2eadc9906)
+
+![image](https://github.com/user-attachments/assets/bc28fdf7-a602-4d20-954c-1274a5c52eae)
